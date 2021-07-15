@@ -1,5 +1,6 @@
 ﻿using FluentAssertions;
 using PlayingCards;
+using PlayingCards.Factory;
 using PlayingCards.Interface;
 using System;
 using System.Collections.Generic;
